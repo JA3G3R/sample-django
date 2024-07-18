@@ -113,7 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-APPPLICATION_SECRETS = [
+APP_CONFIG = [
     { "NAME" : "jwt", "VALUE" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkNDIEFkbWluIiwiaWF0IjoxNTE2MjM5MDIyfQ.P-kbOR-DjBrh5riCl4_Na6W9AHqlffclZoSC1kw21TI" },
     { "NAME" : "secret" , "VALUE" : "Congratulations_on_finding_me" }
 ]
